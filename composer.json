@@ -10,12 +10,12 @@
     "geocoding",
     "geolocation"
   ],
-  "homepage": "https://github.com/mta9896/libphonenumber-for-php",
+  "homepage": "https://github.com/dunro/libphonenumber-for-php",
   "license": "Apache-2.0",
   "support": {
     "irc": "irc://irc.appliedirc.com/lobby",
-    "source": "https://github.com/mta9896/libphonenumber-for-php",
-    "issues": "https://github.com/mta9896/libphonenumber-for-php/issues"
+    "source": "https://github.com/dunro/libphonenumber-for-php",
+    "issues": "https://github.com/dunro/libphonenumber-for-php/issues"
   },
   "authors": [],
   "autoload": {
